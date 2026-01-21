@@ -1,0 +1,10 @@
+user_id,date,feature,session_minutes
+1,2024-01-01,Login,5
+1,2024-01-01,Search,10
+2,2024-01-01,Login,3
+3,2024-01-02,Login,4
+3,2024-01-02,Upload,12
+4,2024-01-02,Login,6
+1,2024-01-03,Search,8
+2,2024-01-03,Upload,15
+5,2024-01-03,Login,4
